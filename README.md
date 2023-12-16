@@ -3,14 +3,14 @@
 
 <p> I enjoy taking up complex problems and turning them into simple and beautiful interface designs. A passionate Full Stack Developer having an experience of building Websites with HTML, CSS, Bootstrap, JavaScript, PHP, Python and some other cool libraries and frameworks.</p>
 
-
+<img href=" https://image.freepik.com/free-vector/school-kid-boy-studying-in-front-of-the-computer_3446-441.jpg"> </img> 
 
 <h1> 🙋‍♂️ About Me </h1>
 
-- 🌱 I’m currently learning <b> DSA </b> <br>
-- 👀 I’m interested in Full Stack Web Developer <br>
-- 🔭 I’m currently working on <b> Australian Project </b> <br>
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning <b> DSA </b> <br> <br> 
+- 👀 I’m interested in Full Stack Web Developer <br> <br>
+- 🔭 I’m currently working on <b> Australian Project </b> <br> <br>
+- 💞️ I’m looking to collaborate on <b> Project </b> <br> <br>
 - 📫 How to reach me mukeshbanka2001@gmail.com 
 
 <!---
