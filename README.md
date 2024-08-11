@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukesh7667&label=Profile%20views&color=0e75b6&style=flat" alt="mukesh7667" /> </p>
 
-- 🔭 I’m currently working on **Australian Project**
+- 🔭 I’m currently working on **AWS Cloud**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Cloud**
 
 - 👯 I’m looking to collaborate on **Project**
 
